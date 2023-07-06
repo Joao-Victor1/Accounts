@@ -1,0 +1,17 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "Bank Accounts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "João Victor Lopes Silva",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.7"
+  }
+}
